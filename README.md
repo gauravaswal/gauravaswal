@@ -39,7 +39,7 @@ gaurav@dev:~$ █
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://portfolio-theta-five-ifzp1rpzvj.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:gauravaswal60@gmail.com">Email</a>
 </p>
@@ -165,7 +165,7 @@ gaurav@dev:~$ █
 ## Let's Connect
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-0d1412?style=for-the-badge&logo=googlechrome&logoColor=2DD4A7" height="36" alt="Portfolio" /></a>
+  <a href="https://portfolio-theta-five-ifzp1rpzvj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1412?style=for-the-badge&logo=googlechrome&logoColor=2DD4A7" height="36" alt="Portfolio" /></a>
   <a href="https://github.com/gauravaswal"><img src="https://img.shields.io/badge/GitHub-0d1412?style=for-the-badge&logo=github&logoColor=2DD4A7" height="36" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1412?style=for-the-badge&logo=linkedin&logoColor=2DD4A7" height="36" alt="LinkedIn" /></a>
   <a href="mailto:gauravaswal60@gmail.com"><img src="https://img.shields.io/badge/Email-0d1412?style=for-the-badge&logo=gmail&logoColor=2DD4A7" height="36" alt="Email" /></a>
